@@ -1,5 +1,8 @@
 # *My User Page*
 
+## Quick Navigation
+- [About Me](#about-me)
+
 ## *About Me*
 
 Hello, I'm a 3rd-year Computer Engineering major at UCSD. I have experience coding in various programming languages which include Java, C++, Python, and ARM. In my free time, I enjoy playing video games and watching anime.
