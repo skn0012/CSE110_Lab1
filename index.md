@@ -37,6 +37,7 @@ int main() {
 - [ ] Learn JavaScript
 
 ## Image
+My group and I in the last CSE 15L Lab:
 ![me](images/3.PNG)
 
 
