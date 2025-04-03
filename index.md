@@ -37,7 +37,7 @@ int main() {
 - [ ] Learn JavaScript
 
 ## Image
-![cat](cat.jpg)
+![cat](screenshots/cat.jpg)
 
 
 
