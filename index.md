@@ -35,7 +35,7 @@ int main() {
 - [ ] Learn JavaScript
 
 ## Image
-![](IMG_1122.jpg)
+![1](IMG_1122.jpg)
 
 
 
