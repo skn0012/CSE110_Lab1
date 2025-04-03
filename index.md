@@ -5,6 +5,8 @@
 - [Quote](#quote)
 - [Code Snippet](#code-snippet)
 - [Links](#links)
+- [Tasks](#tasks)
+- [Images](#images)
 
 ## *About Me*
 
@@ -35,7 +37,7 @@ int main() {
 - [ ] Learn JavaScript
 
 ## Image
-![1](IMG_1122.jpg)
+![1]((https://static.wikia.nocookie.net/marvel-rivals/images/1/1c/Iron_Fist_Hero_Portrait.png/revision/latest?cb=20241205132310))
 
 
 
