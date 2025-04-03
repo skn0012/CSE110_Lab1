@@ -35,7 +35,7 @@ int main() {
 - [ ] Learn JavaScript
 
 ## Image
-![15L](IMG_1122.jpg)
+![](IMG_1122.jpg)
 
 
 
