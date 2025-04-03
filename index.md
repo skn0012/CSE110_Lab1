@@ -37,7 +37,7 @@ int main() {
 - [ ] Learn JavaScript
 
 ## Image
-![1]((https://static.wikia.nocookie.net/marvel-rivals/images/1/1c/Iron_Fist_Hero_Portrait.png/revision/latest?cb=20241205132310))
+![cat](cat.jpg)
 
 
 
