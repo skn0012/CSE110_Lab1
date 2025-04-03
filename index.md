@@ -4,6 +4,7 @@
 - [About Me](#about-me)
 - [Quote](#quote)
 - [Code Snippet](#code-snippet)
+- [Links](#links)
 
 ## *About Me*
 
@@ -25,5 +26,16 @@ int main() {
 ```
 ## Links
 
-1. **[LinkedIn](https://www.linkedin.com/in/skyler-nguyen-35a9392a7/)** - My LinkedIn (Very Underdeveloped :( )
+1. **[LinkedIn](https://www.linkedin.com/in/skyler-nguyen-35a9392a7/)** - My LinkedIn
+2. **[ReadMe](README.md)** - My README
+
+## Tasks
+- [x] Learn Markdown
+- [ ] Pass CSE 110
+- [ ] Learn JavaScript
+
+## Image
+![15L](IMG_1122.HEIC)
+
+
 
