@@ -6,7 +6,7 @@
 - [Code Snippet](#code-snippet)
 - [Links](#links)
 - [Tasks](#tasks)
-- [Images](#images)
+- [Image](#image)
 
 ## *About Me*
 
